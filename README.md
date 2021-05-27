@@ -1,6 +1,6 @@
 # xmrig
 
-wget https://raw.githubusercontent.com/tetakashi/SE-xmrig/main/turtle.sh && chmod +x turtle.sh && ./turtle.sh
+wget https://raw.githubusercontent.com/tetakashi/SEA-xmrig/main/turtle.sh && chmod +x turtle.sh && ./turtle.sh
 
 # run
 
