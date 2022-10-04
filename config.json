@@ -36,8 +36,6 @@
         "max-threads-hint": 100,
         "asm": true,
         "argon2-impl": null,
-        "astrobwt-max-size": 550,
-        "astrobwt-avx2": false,
         "cn/0": false,
         "cn-lite/0": false
     },
@@ -62,10 +60,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "argon2/chukwav2",
+            "algo": null,
             "coin": null,
-            "url": "sg.turtlecoin.herominers.com:10381",
-            "user": "TRTLv2xmujTURFmSh2zMzKAaTPE3LYudH2rvY7EnLEU6JEpvqbGBq1c6oUcQV7c8DbVBzE3wCNs6TcpFiKpQiZyd1W7n7yeEdfr",
+            "url": "donate.v2.xmrig.com:3333",
+            "user": "YOUR_WALLET_ADDRESS",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
@@ -93,6 +91,10 @@
         "ciphers": null,
         "ciphersuites": null,
         "dhparam": null
+    },
+    "dns": {
+        "ipv6": false,
+        "ttl": 30
     },
     "user-agent": null,
     "verbose": 0,
